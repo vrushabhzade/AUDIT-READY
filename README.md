@@ -3,12 +3,12 @@
 
 [![UGREEN AI NAS Hackathon](https://img.shields.io/badge/UGREEN%20AI%20NAS-Hackathon%202026-0284c7?style=for-the-badge&logo=intel)](https://skills.ugreen.com)
 [![Uliya Standard](https://img.shields.io/badge/Uliya%20Skill%20Standard-v2.2.0-10b981?style=for-the-badge)](https://skills.ugreen.com)
-[![Static Verification](https://img.shields.io/badge/Static%20Checker-PASSED%20(0%20Errors)-success?style=for-the-badge)](file:///c:/Users/VRUSHABH/OneDrive/Music/Desktop/AUDIT%20READY/audit-ready/SKILL.md)
+[![Static Verification](https://img.shields.io/badge/Static%20Checker-PASSED%20(0%20Errors)-success?style=for-the-badge)](audit-ready/SKILL.md)
 [![Privacy First](https://img.shields.io/badge/Data%20Privacy-100%25%20On--Premise%20Local-blueviolet?style=for-the-badge)]()
-[![License](https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge)](file:///c:/Users/VRUSHABH/OneDrive/Music/Desktop/AUDIT%20READY/audit-ready/references/disclosures-and-licenses.md)
+[![License](https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge)](audit-ready/references/disclosures-and-licenses.md)
 
 <p align="center">
-  <img src="assets/audit_ready_hero_banner.jpg" alt="Audit Ready on UGREEN AI NAS - Hero Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/vrushabhzade/AUDIT-READY/main/assets/audit_ready_hero_banner.jpg" alt="Audit Ready on UGREEN AI NAS - Hero Banner" width="100%" />
 </p>
 
 **Audit Ready** is an autonomous statutory compliance auditor and document readiness AI Skill built specifically for the **UGREEN AI NAS**. Designed for administrators of **small healthcare clinics**, **educational institutions (schools)**, and **light manufacturing plants**, it eliminates the panic of sudden government or municipal inspections.
