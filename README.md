@@ -7,6 +7,10 @@
 [![Privacy First](https://img.shields.io/badge/Data%20Privacy-100%25%20On--Premise%20Local-blueviolet?style=for-the-badge)]()
 [![License](https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge)](file:///c:/Users/VRUSHABH/OneDrive/Music/Desktop/AUDIT%20READY/audit-ready/references/disclosures-and-licenses.md)
 
+<p align="center">
+  <img src="assets/audit_ready_hero_banner.jpg" alt="Audit Ready on UGREEN AI NAS - Hero Banner" width="100%" />
+</p>
+
 **Audit Ready** is an autonomous statutory compliance auditor and document readiness AI Skill built specifically for the **UGREEN AI NAS**. Designed for administrators of **small healthcare clinics**, **educational institutions (schools)**, and **light manufacturing plants**, it eliminates the panic of sudden government or municipal inspections.
 
 The Skill scans NAS shares, analyzes digital PDFs and physical wall-mounted certificate photos using local multimodal AI, flags expired or missing statutory items, organizes authentic records into a clean **Inspector-Ready Folder**, and generates an actionable **Compliance Gap Report**.
