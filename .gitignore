@@ -1,0 +1,9 @@
+# Uliya skill kit development dependencies
+uliya-skill-kit/
+
+# Python cache & temporary build artifacts
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+Thumbs.db
